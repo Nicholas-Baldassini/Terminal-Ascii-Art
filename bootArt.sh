@@ -14,4 +14,4 @@ cat $art
 
 echo $art
 
-echo "$(tput setaf 2)Welcome Baldo, it is $(date) :) $(tput sgr0)"
+echo "$(tput setaf 2)Welcome, it is $(date) :) $(tput sgr0)"
