@@ -1,0 +1,30 @@
+This came from somewhere in the Emacs source code!
+(Part of a warning about not changing things
+unless you _really_ know what you're doing ;-)
+
+         _______________
+        /               \
+       /                 \
+      /                   \
+      |   XXXX     XXXX   |
+      |   XXXX     XXXX   |
+      |   XXX       XXX   |
+      |         X         |
+      \__      XXX      __/
+        |\     XXX     /|
+        | |           | |
+        | I I I I I I I |
+        |  I I I I I I  |
+        \_             _/
+          \_         _/
+            \_______/
+    XXX                    XXX
+   XXXXX                  XXXXX
+   XXXXXXXXX         XXXXXXXXXX
+          XXXXX   XXXXX
+             XXXXXXX
+          XXXXX   XXXXX
+   XXXXXXXXX         XXXXXXXXXX
+   XXXXX                  XXXXX
+    XXX                    XXX
+-- 

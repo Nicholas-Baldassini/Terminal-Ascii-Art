@@ -1,0 +1,154 @@
+>Newsgroups: de.talk.jokes.funny
+>Path: rrze.uni-erlangen.de!fauern!gs.dfn.de!news.dfn.de!Germany.EU.net!EU.net!uunet!easix!ucon!jokes
+>From: jokes@ucon.gun.de (Lars Peters)
+>Subject: Gatter-Symbole
+>Followup-To: de.talk.jokes.d
+>Approved: jokes@ucon.gun.de (Lars Peters)
+>Sender: jokes@ucon.gun.de (Lars Peters)
+>Organization: Unlimited Communication and Networking, Duesseldorf, FRG. (pvt)
+>Date: Sat, 17 Sep 1994 10:41:01 GMT
+>Message-ID: <1994Sep17.104101.3693@ucon.gun.de>
+>Lines: 141
+
+        |\                            |\
+        | \                           | \
+        |  \                          |  \
+     ---|---)--  JA                ---| ? )----  WARUM
+        |  /                          |  /
+        | /                           | /
+        |/                            |/
+
+
+        |\                            |\
+        | \                           | \
+    |   |  \                          |  \
+    |---|   )--  NIE               ---| ? O----  WARUM NICHT
+    |   |  /                          |  /
+        | /                           | /
+        |/                            |/
+
+                                    ________
+                                   |        |
+        |\                         |  |\    |
+        | \                        |__O \   |
+    |   |  \                          |  \  |
+    |---O   )--  IMMER                |   )-O--  ABER
+    |   |  /     (Passiv)         ____|  /
+        | /                           | /
+        |/                            |/
+
+                                    ________
+                                   |        |
+        |\                         |  |\    |
+        | \                        |__O \   |
+    |   |  \                          |  \  |
+    |---|   O--  IMMER                |   O-O--  NABER
+    |   |  /     (Aktiv)          ____|  /
+        | /                           | /
+        |/                            |/
+
+
+        |\                            |\
+        | \                           | \
+    |   |  \                          |  \
+    |---O   O--  NIMMER           ----|-O-)----  DRINVERTER
+    |   |  /                          |  /
+        | /                           | /
+        |/                            |/
+
+
+        |\                            |\
+      __O \                       ____| \
+     |  |  \                          |  \
+     |  |   )--  NIE-UND-             |   )----  ORAND
+   __|__|  /     NIMMER           -------/
+        | /                           | /
+        |/                            |/
+
+
+        |\                            |\      |\
+        | \                           | \     | \
+        |  \                          |  \    |  \
+    ----|   )-O-- RUND             ---|   O---|   O--- PERVERTER
+   /    |  /  |                       |  /    |  /
+  /     | /   |                       | /     | /
+  |     |/    |                       |/      |/
+  \          /
+   \________/
+
+
+        |\
+        | \                           |\   |\   |\   |\
+        |  \                          | \  | \  | \  | \
+  ------|   )-O-- UNRUND           ---|  O-|  O-|  O-|  O---
+  |     |  /  |                       | /  | /  | /  | /
+  |     | /   |                       |/   |/   |/   |/ SUPERVERTER
+  |     |/    |
+  |           |
+  |___________|
+
+
+        |\
+   _____|_\
+        |  \                         2-Bit-Komplikator
+        |   )---                           _________
+      __|__/    |                         |         |
+     |  | /     | FLODER                  |         |--- manchmal
+     |  |/      |                         |         |
+     |          | (engl.FLOR)             |         |--- eventuell
+     |      /|  |                inputt --|         |
+     |     / |__|                         |         |--- ab und zu
+     |    /  |                   kaputt --|         |
+     ----(   |                            |         |--- selten
+          \  |____                        |         |
+           \ |                            |         |--- auf und zu
+            \|                emergency __|         |
+                                cutputt   |         |--- moeglich
+                                          |         |
+        |\                                |         |--- zeitweise
+   _____| \                               |_________|
+        |  \
+        |   )---
+      __|  /    |
+     |  | /     | FLUND
+     |  |/      |
+     |          | (engl.FLAND)
+     |      /|  |
+     |     /_|__|
+     |    /  |
+     ----(   |
+          \__|___
+           \ |
+            \|
+
+
+  Die ICs gibt's bei der Firma UI (Unlogical Instruments) und alle
+  sind nach den Richtlinien von E. Murphy aufgebaut.
+  Sie haben folgende Pinbelegung:
+
+              __________
+             |          |
+          7 -|          |- 4      Pin 1,3,2,6,5,4,1,7,13,10:Input
+          3 -|          |- 5
+          6 -|          |         Pin 0,8,9,11,12,14:       N.C.
+             |          |- 13
+             |          |         Zusatzpin:           Don't Care
+          1 -|          |- 9
+          0 -|          |
+          2 -|          |
+         11 -|          |- 10
+         14 -|          |
+          8 -|          |
+          1 -|__________|- 12
+                 |
+                 |
+              Zusatzpin
+
+
+  Uebrigens sind jetzt die neuen Fast-8-Megabit-WOMs erschienen.
+  Sie sind zu 7*1025 kBits organisiert und passen perfekt zu den
+  anderen Bausteinen von UI.
+
+-- 
+Beitraege fuer de.talk.jokes.funny bitte an jokes@ucon.gun.de senden !
+
